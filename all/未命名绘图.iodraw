@@ -11,7 +11,7 @@
           <mxGeometry x="1896" y="468" width="144" height="144" as="geometry" />
         </mxCell>
         <mxCell id="ZRUWNfi88WNbKym8edex-28" value="输入注册信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1795" y="680" width="156" height="48" as="geometry" />
+          <mxGeometry x="1796" y="685" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="ZRUWNfi88WNbKym8edex-29" value="未通过" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2186" y="1370" width="108" height="48" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZRUWNfi88WNbKym8edex-55" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1809" y="679" width="120" height="60" as="geometry" />
+          <mxGeometry x="1950" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
