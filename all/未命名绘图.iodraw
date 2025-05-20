@@ -19,7 +19,7 @@
         <mxCell id="ZRUWNfi88WNbKym8edex-30" value="是否有账号" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1809" y="784" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="ZRUWNfi88WNbKym8edex-31" value="输入用户名密码" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ZRUWNfi88WNbKym8edex-31" value="输入用户名密码" style="whiteSpace=wrap;strokeWidth=2;rounded=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1677" y="984" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="ZRUWNfi88WNbKym8edex-32" value="用户名异常提示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
